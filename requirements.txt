@@ -1,0 +1,6 @@
+uwsgi
+django
+coverage
+pymysql
+requests
+django-crontab
